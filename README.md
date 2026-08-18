@@ -159,6 +159,26 @@ dsh plugin add dsh-zagens-office@0.1.0
 dsh plugin --profile web list
 ```
 
+只要安装的插件出现在列表中就代表已经部署完毕啦
+```bash
+dsh-profile-web /home/user/.dsh/profiles/web (PRIVATE)
+│
+│   dependencies:
+├── @deepseek-ai/dsh-tool-web@0.0.1-rc.1
+├── @feiyang666/deepseekharnessdesktop@1.9.0
+├── @omdsh-dev/dsh-genui@0.8.7
+├── dsh-doc@0.1.1
+├── dsh-mineru@0.1.9
+├── dsh-plugin-writing-guard@1.3.0
+├── dsh-science@0.1.1
+├── dsh-skin@0.4.1
+├── dsh-tool-excalidraw@0.2.0
+├── dsh-workbench-plugin@0.1.13
+└── dsh-zagens-office@0.1.0
+
+11 packages
+```
+
 ## 如何使用
 插件安装后，其功能通常会集成到 DeepSeek Harness 的界面或命令中。
 
