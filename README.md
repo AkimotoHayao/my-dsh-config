@@ -28,7 +28,8 @@
 
 ---
 
-P.S.
+P.S.目前不建议安装dsh-research-library，因为我每次配置都会报错\sub
+
 ## 🧪 各插件详细介绍与使用体验
 
 ### 1. `@deepseek-ai/dsh-tool-web` — 官方 Web 工具集成
