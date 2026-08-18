@@ -151,7 +151,7 @@ dsh plugin add dsh-tool-excalidraw@0.2.0
 dsh plugin add dsh-workbench-plugin@0.1.13
 dsh plugin add dsh-zagens-office@0.1.0
 ```
-
+---
 **2. 验证安装**
 安装完成后，可以使用以下命令查看已安装的插件列表：
 
