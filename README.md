@@ -28,6 +28,7 @@
 
 ---
 
+P.S.
 ## 🧪 各插件详细介绍与使用体验
 
 ### 1. `@deepseek-ai/dsh-tool-web` — 官方 Web 工具集成
