@@ -164,11 +164,11 @@ dsh plugin --profile web list
 
 界面集成：如 dsh-tool-excalidraw，会在 Harness 的 Web 界面中新增功能按钮或面板。
 命令增强：如 dsh-doc，可能会增加新的 dsh 子命令。你可以尝试运行 dsh --help 查看所有可用命令。
----
+
 
 ## 写在最后
 
 以上是我这几天使用 DeepSeek Harness 的真实体验和插件分享。作为一个研0学生，我还在不断探索中，后续有新发现会持续更新这个仓库。
----
+
 如果你有任何问题、建议，或者发现了更好用的插件，欢迎通过 Issues 提出，也欢迎提交 PR 一起完善！
----
+
