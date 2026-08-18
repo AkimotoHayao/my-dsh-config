@@ -150,13 +150,14 @@ dsh plugin add dsh-skin@0.4.1
 dsh plugin add dsh-tool-excalidraw@0.2.0
 dsh plugin add dsh-workbench-plugin@0.1.13
 dsh plugin add dsh-zagens-office@0.1.0
----
+```
 
 **2. 验证安装**
 安装完成后，可以使用以下命令查看已安装的插件列表：
 
 ```bash
 dsh plugin --profile web list
+```
 
 ## 如何使用
 插件安装后，其功能通常会集成到 DeepSeek Harness 的界面或命令中。
