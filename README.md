@@ -12,7 +12,7 @@
 | 插件数 | **19 个第三方 bundle**（+ 2 个核心 bundle） |
 | 核对时间 | 2026-09-19 |
 
-参考仓库：[AkimotoHayao/my-dsh-config](https://github.com/AkimotoHayao/my-dsh-config)（本文在其基础上扩充、纠错并更新到当前实装版本，差异见 [第 8 节](#8-与参考仓库的差异)）。
+
 
 ---
 
